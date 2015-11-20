@@ -1,4 +1,4 @@
-/*
+/**
 *
 * Modifica el programa anterior añadiendo colores. Puedes mostrar cada asignatura de un color diferente.
 *
